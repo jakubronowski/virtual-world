@@ -63,7 +63,7 @@ This project started as a university assignment written in legacy C++ (raw ownin
        Wolf Sheep Fox Hare Mosquito   Grass  Guarana  Thorn
 ```
 
-| Symbol | Species | Type | Base Str | Init | Trait / Behavior |
+| Symbol | Species | Type | Base Strength | Initiative | Trait / Behavior |
 |:---:|:---|:---:|:---:|:---:|:---|
 | `W` | **Wolf** | Animal | 9 | 5 | High base strength. |
 | `S` | **Sheep** | Animal | 4 | 4 | Standard grazer behavior. |
